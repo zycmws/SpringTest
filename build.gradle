@@ -13,7 +13,7 @@ ext{
 }
 repositories {
   maven {
-        url "http://202.105.139.120:8081/artifactory/repo" // http://mvnrepository.com/
+        url "http://mvnrepository.com/"
     }
   mavenCentral()
 }
